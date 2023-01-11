@@ -5,7 +5,6 @@ public class Main {
         for (String s : arr) {
             System.out.println(s);
 
-
         }
     }
 }
